@@ -1,7 +1,7 @@
 package org.example.interfaces;
 
 /**
- * Функциональный интерфейс Convertor. Максимально простой и удобный.
+ * Функциональный интерфейс Converter. Максимально простой и удобный.
  */
 
 @FunctionalInterface
